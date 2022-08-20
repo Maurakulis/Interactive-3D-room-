@@ -9,7 +9,8 @@ What can you do in this project:
   - Turn on and off light source.
   - Dragg objects and interact with physics.
 
-
-![flying_donut](https://user-images.githubusercontent.com/103639007/185748846-631033df-1b51-4b5f-8478-1a9f314d6d25.gif)
+<p align="center">
+  ![flying_donut](https://user-images.githubusercontent.com/103639007/185748846-631033df-1b51-4b5f-8478-1a9f314d6d25.gif)
+</p>
 
 For checking project in your browser download all files from this repository and open in Google Chrome (or your prefferred browser) test.html file.
