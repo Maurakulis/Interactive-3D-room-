@@ -1,5 +1,10 @@
 For my bachelor's thesis I created a 3D room interior visualisation with interactive elements using Babylon.js framework.
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103639007/185749711-cd665397-3051-46fc-9941-48aa28344e30.png">
+</p>
+
 The purpose of this project is to create a website that would display the interior of the room with interactive elements and the information about them.
 
 What can you do in this project:
