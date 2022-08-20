@@ -122,7 +122,7 @@ var createScene = async function () {
 
     //materials
     var groundMaterial = new BABYLON.StandardMaterial("ground", scene);
-    groundMaterial.diffuseColor = new BABYLON.Color3.FromHexString("#1e1e1e");
+    groundMaterial.diffuseColor = new BABYLON.Color3(0.35, 0.35, 0.35);
     groundMaterial.diffuseTexture = new BABYLON.Texture("https://raw.githubusercontent.com/Maurakulis/BabylonJS/main/wood_txt.jpg", scene);
 
     //table material
